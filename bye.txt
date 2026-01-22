@@ -1,0 +1,40 @@
+=== Tic-Tac-Toe Game Replay ===
+Board Size: 3 x 3
+Total Moves: 5
+===============================
+
+Initial Board:
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+Move History:
+-------------
+Move 1: Player X -> (1, 1)
+| X |   |   |
+|   |   |   |
+|   |   |   |
+
+Move 2: Player O -> (3, 1)
+| X |   |   |
+|   |   |   |
+| O |   |   |
+
+Move 3: Player X -> (3, 3)
+| X |   |   |
+|   |   |   |
+| O |   | X |
+
+Move 4: Player O -> (1, 2)
+| X | O |   |
+|   |   |   |
+| O |   | X |
+
+Move 5: Player X -> (2, 2)
+| X | O |   |
+|   | X |   |
+| O |   | X |
+
+>>> Player X WINS with this move! <<<
+
+=== End of Replay ===
